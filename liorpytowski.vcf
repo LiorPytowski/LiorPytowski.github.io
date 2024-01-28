@@ -10,7 +10,7 @@ TEL;TYPE=WORK:
 TEL;TYPE=HOME:
 TEL;TYPE=MSG:
 EMAIL;TYPE=WORK:Lior.Pytowski@PixelBiology.org
-URL;TYPE=Digital Business Card:
+URL;TYPE=Digital Business Card:https://liorpytowski.github.io/
 URL:https://www.pixelbiology.org/
 URL;TYPE=Website:https://www.pixelbiology.org/
 URL;TYPE=Twitter:https://twitter.com/Pixel_Biology
@@ -18,5 +18,5 @@ URL;TYPE=LinkedIn:https://linkedin.com/company/PixelBiology
 URL;TYPE=GitHub:https://github.com/LiorPytowski
 KEY;TYPE=PGP;ENCODING=b:
 NOTE:Bio-Image Analysis Consulting & Training.
-UID:EnBizCard-100153126
+UID:EnBizCard-100306352
 END:VCARD
